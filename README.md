@@ -17,3 +17,4 @@ That is so funny! :joy:
 
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 
+![](https://i.imgur.com/j9uMWqE.png)
