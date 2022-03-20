@@ -16,3 +16,5 @@ That is so funny! :joy:
 [Github Keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
+
+https://www.ishalife.com/downloads/wp-content/uploads/2021/01/20190716_HKS_0496-e-12x18-940x627.jpg
